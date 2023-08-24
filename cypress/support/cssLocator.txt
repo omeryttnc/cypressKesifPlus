@@ -1,0 +1,18 @@
+. -> class
+# -> id
+[attr='value']
+tag[attr='value']
+
+ve -> ikili locatorlar kullanmak gerekirse -> araya hicbirsey koymuyoruz  a[href='/auth/register'].mr-2
+veya -> araya , (virgul) 
+
+
+
+
+xpath 
+ikili locator -> ve -> and
+ikili locator -> veya -> or 
+
+
+ css kullaniyorken cy.get()
+ xpath kullaniyorken cy.xpath()
